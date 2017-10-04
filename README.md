@@ -21,13 +21,13 @@ https://pypi.python.org/pypi/deap
 
 There is a lot of good material on the internet.
 
-* (Introduction to Genetic Algorithms)[http://www.obitko.com/tutorials/genetic-algorithms/index.php] -- provides an introduction of GA by Marek Obitko.
+* [Introduction to Genetic Algorithms](http://www.obitko.com/tutorials/genetic-algorithms/index.php) -- provides an introduction of GA by Marek Obitko.
 
-* (A Field Guide to Genetic Programming)[http://www.gp-field-guide.org.uk/p] -- An e-book, freely downloadable under a Creative Commons license. Written in 2008.
+* [A Field Guide to Genetic Programming](http://www.gp-field-guide.org.uk/p) -- An e-book, freely downloadable under a Creative Commons license. Written in 2008.
 
-* (A Genetic Algorithm Tutorial)[http://samizdat.mines.edu/ga_tutorial/ga_tutorial.ps] by Darrell Whitley Computer Science Department Colorado State University
+* [A Genetic Algorithm Tutorial](http://samizdat.mines.edu/ga_tutorial/ga_tutorial.ps) by Darrell Whitley Computer Science Department Colorado State University
 
-* (Wikipedia: Genetic algorithm)[https://en.wikipedia.org/wiki/Genetic_algorithm]
+* [Wikipedia: Genetic algorithm}(https://en.wikipedia.org/wiki/Genetic_algorithm)
 
-* (Evolutionary algorithms and Genetic Algorithms)[https://mpatacchiola.github.io/blog/2017/03/14/dissecting-reinforcement-learning-5.html] by Massimiliano Patacchiola
+* [Evolutionary algorithms and Genetic Algorithms](https://mpatacchiola.github.io/blog/2017/03/14/dissecting-reinforcement-learning-5.html) by Massimiliano Patacchiola
 
