@@ -15,6 +15,7 @@ RUN apt install -y ipython python-pydot python-yaml && \
 
 RUN easy_install pyevolve
 RUN pip install deap
+RUN pip install -U scikit-learn
 
 RUN useradd --home /home/ga ga
 
