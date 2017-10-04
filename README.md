@@ -1,6 +1,6 @@
 # This repository
 
-I made this repository to create a special container with lots of python tools to develop programs with Evolutionary Algorithms, specially Genetic Algorithms.
+I made this repository to create a special container with lots of python tools to develop programs with Evolutionary Algorithms and Machine Learning.
 
 ## Install and run ##
 
