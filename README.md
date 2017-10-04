@@ -2,6 +2,13 @@
 
 I made this repository to create a special container with lots of python tools to develop programs with Evolutionary Algorithms, specially Genetic Algorithms.
 
+## Install and run ##
+
+```bash
+$ docker build -t ga github.com/h3dema/evolutionary-container.git
+$ docker run -u ga -it ga
+```
+
 # Genetic Algorithms #
 
 This container has two Genetic Algorithms packages -- pyevolve and Deep.
