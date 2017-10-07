@@ -4,7 +4,7 @@ RUN apt-get -y update && \
     apt-get -y upgrade && \
     apt-get -y install git-core git wget unzip vim && \
     apt-get -y install python python-pip python-setuptools && \
-    apt-get -y install python-numpy python-scipy  python-matplotlib
+    apt-get -y install python-numpy python-scipy python-matplotlib ipython
 
 RUN pip install --upgrade pip
 
